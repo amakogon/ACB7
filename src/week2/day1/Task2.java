@@ -16,6 +16,5 @@ public class Task2 {
     for(int i = nums.length - 1; i > -1; i--){
       System.out.print(nums[i] + " ");
     }
-
   }
 }
