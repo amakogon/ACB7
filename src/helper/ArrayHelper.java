@@ -7,8 +7,8 @@ public class ArrayHelper {
     }
     System.out.println();
   }
-  
-  public static int[] generate(){
 
+  public static int[] generate(){
+    return null;
   }
 }
